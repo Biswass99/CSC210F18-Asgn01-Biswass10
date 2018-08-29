@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CS210 Asgn1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_and_csc210_string">Hello and CSC210!</string>
+</resources>
